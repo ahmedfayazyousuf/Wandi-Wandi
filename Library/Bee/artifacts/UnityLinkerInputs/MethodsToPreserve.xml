@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameScript">
+			<method name="DifficultyEasy"/>
+			<method name="DifficultyHard"/>
+			<method name="DifficultyMedium"/>
+			<method name="FetchLeaderboard"/>
+		</type>
+		<type fullname="UIController">
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+		</type>
+	</assembly>
+</linker>

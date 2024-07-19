@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777085672342",
+    "project_id": "wandiwandi-90f6f",
+    "storage_bucket": "wandiwandi-90f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777085672342:android:141b3a5f176ec5a281dbb7",
+        "android_client_info": {
+          "package_name": "com.wandi.wandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP_J-qFfHZJ3NXJAjC326vQsmn94k_8q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
